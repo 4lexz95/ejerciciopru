@@ -108,7 +108,9 @@ namespace ejerciciopru
              * de esa forma ya hay una opcion seleccionada por defecto.
              */
             if (!destino) {
-                MessageBox.Show("Falta el destino");           
+                MessageBox.Show("Falta el destino"); 
+                //prueba
+
             }
             if (!fecha)
             {
